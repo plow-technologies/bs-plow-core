@@ -1,0 +1,15 @@
+{
+  "name": "bs-plow-core",
+  "version": "0.1.0",
+  "bsc-flags": [
+    "-bs-no-version-header",
+    "-bs-super-errors"
+  ],
+  "refmt": 3,
+  "sources": [
+    "src"
+  ],
+  "bs-dependencies": [
+    // add your bs-dependencies here 
+  ]
+}
